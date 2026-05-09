@@ -1,0 +1,27 @@
+
+CRUISE SHIP MANAGEMENT SYSTEM REPORT
+
+Objective:
+Develop an online system for voyagers to book cruise services and order items.
+
+Frontend:
+HTML, CSS, JavaScript
+
+Backend:
+Node.js + Express.js
+
+Database:
+Firebase
+
+Features:
+- Authentication
+- Catering Orders
+- Stationery Orders
+- Beauty Salon Booking
+- Fitness Center Booking
+- Party Hall Booking
+
+Optimization:
+- Modular Code Structure
+- Logging Support
+- Maintainable Architecture
